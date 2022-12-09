@@ -7,7 +7,7 @@ exec 3<> $1.txt
 
     echo -e "Prompt [girlenginerd]: \n \n">&3
     echo -e "Response [ChatGPT]: \n \n">&3
-    echo -e "Draft [BardGPT x girlenginerd]: \n">&3
+    echo -e "Draft [ChatGPT x girlenginerd]: \n">&3
 
 exec 3>&-
 
