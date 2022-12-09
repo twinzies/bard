@@ -14,4 +14,5 @@ chmod +x templator.sh
 
 References: 
 [ChatGPT](https://openai.com/blog/chatgpt/)
+
 [Publishing on Medium](https://betterprogramming.pub/programmatically-publish-a-markdown-file-as-a-medium-story-with-python-b2b072a5f968)
